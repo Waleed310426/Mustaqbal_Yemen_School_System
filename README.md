@@ -3,13 +3,35 @@
   <p>Comprehensive Modern School & Academic Management Web Application | منصة تعليمية وإدارية متقدمة لإدارة المدارس والكنترول المدرسي</p>
   
   <p>
-    <a href="#english">🇬🇧 English</a> • <a href="#arabic">🇾🇪 العربية</a>
+    <a href="#english">🇬🇧 English</a> • <a href="#arabic">🇾🇪 العربية</a> • <a href="#screenshots">📸 Screenshots</a>
   </p>
 
   ![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</div>
+
+---
+
+<a id="screenshots"></a>
+## 📸 System Screenshots | لقطات من النظام
+
+<div align="center">
+  <h3>1️⃣ لوحة التحكم الشاملة (Main Dashboard)</h3>
+  <p><i>إحصائيات فورية، نسب الحضور اليومي، حالة الرسوم المدرسية، والتحليلات البيانية الذكية</i></p>
+  <img src="screenshots/dashboard.jpg" alt="لوحة التحكم الرئيسية" width="95%"/>
+  <br/><br/>
+
+  <h3>2️⃣ سجل درجات الطلاب والكنترول المدرسي (Grades & Control System)</h3>
+  <p><i>إدارة الاختبارات والتقييمات، كشوفات الدرجات المعتمدة، واستخراج الشهادات</i></p>
+  <img src="screenshots/grades_record.jpg" alt="سجل درجات الطلاب والكنترول" width="95%"/>
+  <br/><br/>
+
+  <h3>3️⃣ الجدول الدراسي الأسبوعي وتوزيع الحصص (Weekly Timetable)</h3>
+  <p><i>تنظيم وتوزيع الجداول الأسبوعية بدقة ومنع تعارض الحصص بين الفصول والمعلمين</i></p>
+  <img src="screenshots/timetable.jpg" alt="الجدول الدراسي الأسبوعي" width="95%"/>
+  <br/><br/>
 </div>
 
 ---
